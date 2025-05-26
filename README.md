@@ -1,1 +1,1 @@
-# generated-html-reports
+# generated-html-report
